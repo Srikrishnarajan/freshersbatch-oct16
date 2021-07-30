@@ -1,4 +1,4 @@
-Git Branching Assignment
+Git Branching Assignment - Committing css files
 
 In this assignment, our objective is to commit html, css and js files into git.
 
