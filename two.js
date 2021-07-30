@@ -1,3 +1,3 @@
 <script type="text/javascript">  
- alert("Hello Javatpoint");  
+ alert("Hello, JavaScript");  
 </script>  
